@@ -82,6 +82,7 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
+    
   }
 }
